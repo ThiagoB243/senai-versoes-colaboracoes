@@ -1,4 +1,4 @@
-# senai-versoes-colaboracoes
+﻿# senai-versoes-colaboracoes
 
 Principais comandos para criação do repositório.
 
@@ -59,3 +59,5 @@ git push -u origin --tag
 doskey /h >Comandos_Hoje.txt
 
 git submodule add https://github.com/Jansen-Killinger-Cara/senai-versoes-colaboracoes
+
+lembrei do comando: git commit
