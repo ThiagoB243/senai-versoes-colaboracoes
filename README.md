@@ -60,4 +60,8 @@ doskey /h >Comandos_Hoje.txt
 
 git submodule add https://github.com/Jansen-Killinger-Cara/senai-versoes-colaboracoes
 
+<<<<<<< HEAD
 lembrei do comando: git commit
+=======
+lembre do comando: git status
+>>>>>>> tarefa/minha-primeira-branch1
